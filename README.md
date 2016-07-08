@@ -1,8 +1,8 @@
 # docyard
-tool for manage docker containers 
+A tool for manage docker containers 
 
 # env
-Deploy docker containers in any envirounment 
+Manage/Deploy docker containers in 
 ```
 1. dev
 2. stagging
